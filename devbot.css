@@ -45,7 +45,7 @@ canvas{
 .jd__box{
     position:absolute;
     width:250px;
-    height:250px;
+    height:450px;
     top:198px;
     background:rgba(0,0,0,.5);
     box-shadow:-50px 0 #000 inset, 2px 5px 5px rgba(0,0,0,.4);
